@@ -1,6 +1,6 @@
 # frtproject
 
-Final Future Ready Talent(FRT) Project
+Final Future Ready Talent(FRT) Project.
 An E-Learning platform that provides free as well as premium certified courses at an affordable price. 
 
 Core Azure services used in my project are :
