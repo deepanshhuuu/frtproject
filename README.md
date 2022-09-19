@@ -8,7 +8,7 @@ Core Azure services used in my project are :
 - QnA Maker
 - AI + Machine Learning (QnA Maker, Web App Bot)
 
-## [Click here](https://lively-desert-0eeb37710.1.azurestaticapps.net) for viewing my website.
+## [Click here](https://deepanshhuuu.github.io/frtproject/) for viewing my website.
 
 ## Home page
 
